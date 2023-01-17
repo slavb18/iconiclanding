@@ -1,0 +1,13 @@
+.logo {
+  color: #6bb8ad;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  font-family: Orbitron, Arial;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 40px;
+  display: flex;
+}

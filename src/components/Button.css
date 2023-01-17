@@ -1,0 +1,16 @@
+.button {
+  color: #67b8af;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3px;
+  font-family: Orbitron, Arial;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 24px;
+  display: flex;
+}
+
+.button-1 {
+  margin-top: 1px;
+}
